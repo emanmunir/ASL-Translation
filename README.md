@@ -4,7 +4,7 @@
 The ASL Translation App is a simple web application developed using Streamlit. It translates English text into American Sign Language (ASL) signs. This application is especially useful for learning the ASL alphabet and how to sign basic phrases and words.
 
 ## Screenshot
-![ASL Translation App Screenshot](image.png)
+![ASL Translation App Screenshot](images/img.png)
 
 ## Features
 - Translate alphabets and numbers from text to ASL images.
@@ -29,13 +29,13 @@ Before you can run the app, you need to install the necessary Python packages.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/emanmunir/ASL-Translation.git
+   cd ASL-Translation
    ```
 
 2. Install the required Python packages:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 ## Running the Application
